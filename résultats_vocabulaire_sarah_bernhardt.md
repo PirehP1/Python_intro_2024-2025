@@ -5,6 +5,7 @@
 ## Quelques statistiques lexicales
 
 **Nombre de mots** : 239
+
 **Nombre de formes** : 134
 
 ## Dictionnaire des fréquences
